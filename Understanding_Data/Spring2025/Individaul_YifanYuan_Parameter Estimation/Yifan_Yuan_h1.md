@@ -92,15 +92,15 @@ do the Parameter Estimation about it's normal distribution
 <br> We use the setosa_sepal_length as an example of how we do the Parameter Estimation in normal distribution
 ####  Visualize of the data of setosa sepal length
 ![iris_data](./iris_data.png)
-We could assume this dataset follow the Normal Distribution so we can do the Parameter Estimation
+<br>We could assume this dataset follow the Normal Distribution so we can do the Parameter Estimation
 #### Visualize of MLE
-MLE: μ=5.01, σ²=0.12
+<br>MLE: μ=5.01, σ²=0.12
 ![MLE](./MLE.png)
 #### Visualize of MAP
-MAP: μ=5.01, σ²=0.15
+<br>MAP: μ=5.01, σ²=0.15
 ![MAP](./MAP.png)
 #### Visualize of Bayesian parameter estimation
-Bayesian: μ=5.01, σ²=0.16
+<br>Bayesian: μ=5.01, σ²=0.16
 ![Bayesian](./Bayesian.png)
 #### Comparison of MLE, MAP, and Bayesian Estimations
 
